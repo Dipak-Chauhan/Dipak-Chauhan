@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ### 📱 Devices
 [![Pixel 3](https://img.shields.io/badge/Pixel%203-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
 [![Pixel 6a](https://img.shields.io/badge/Pixel%206a-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/product/pixel_6a?hl=en-GB)
-[![Asus Tuf A17](https://img.shields.io/badge/Asus%20Tuf%20A17-inactive?style=flat-square&logo=Asus&logoColor=FFFFFF&labelColor=inactive)](https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a17-2022/)
+[![Asus Tuf A17](https://img.shields.io/badge/Asus%20Tuf%20A17-6E7DAD?style=flat-square&logo=Asus&logoColor=FFFFFF&labelColor=6E7DAD)](https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a17-2022/)
 [![Raspberry Pi 4](https://img.shields.io/badge/Raspberry%20Pi%204-CF0000?style=flat-square&logo=Raspberry%20Pi&logoColor=FFFFFF&labelColor=CF0000)](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 
 <!--<img align="left" src="https://github-readme-stats.vercel.app/api?username=dipak-chauhan&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />-->

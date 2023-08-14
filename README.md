@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center">💻 As a developer, I specialize in creating responsive and visually appealing websites, apps and other stuff with clean and efficient code
+<h3 align="center">💻 As a Developer, I specialize in creating responsive and visually appealing websites, apps and other stuff with clean and efficient code
 </h3>
 
 - 🌱 I’m learning Web Development 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 😄 Anime And Chill
 - ⚡ When I'm Not Coding Only Gaming
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 <p align="left">  
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40"/> </a>   
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/></a>
@@ -36,14 +36,14 @@ Here are some ideas to get you started:
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-### 💻 Environment
+### 💻 Environment :
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-00BBFF?style=flat-square&logo=Kali%20Linux&logoColor=FFFFFF&labelColor=blue)](https://www.kali.org/)
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/en-us/windows)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/intl/en_in/android-13/)
 
 <!--<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dipak-chauhan&show_icons=true&locale=en" alt="dipak-chauhan" /></p>-->
 
-### 📱 Devices
+### 📱 Devices :
 [![Pixel 3](https://img.shields.io/badge/Pixel%203-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
 [![Pixel 6a](https://img.shields.io/badge/Pixel%206a-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/product/pixel_6a?hl=en-GB)
 [![Asus Tuf A17](https://img.shields.io/badge/Asus%20Tuf%20A17-6E7DAD?style=flat-square&logo=Asus&logoColor=FFFFFF&labelColor=6E7DAD)](https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a17-2022/)

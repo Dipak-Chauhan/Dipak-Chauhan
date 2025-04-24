@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </h3>
 
 - 🌱 I’m learning Web Development 
-- 📫 Email: dipakchauhan@duck.com
+- 📫 Email: deepakchauhan98790@gmail.com
 - 💬 Ask me about Digital Stuff
 - 😄 Anime And Chill
 - ⚡ When I'm Not Coding Only Gaming
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 </p>
 
 ### 💻 Environment :
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux%20-00BBFF?style=flat-square&logo=archlinux&logoColor=FFFFFF&labelColor=blue)]((https://archlinux.org/))
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-00BBFF?style=flat-square&logo=Kali%20Linux&logoColor=FFFFFF&labelColor=blue)](https://www.kali.org/)
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/en-us/windows)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/intl/en_in/android-13/)
@@ -46,6 +47,7 @@ Here are some ideas to get you started:
 <!--<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dipak-chauhan&show_icons=true&locale=en" alt="dipak-chauhan" /></p>-->
 
 ### 📱 Devices :
+[![Pixel 8](https://img.shields.io/badge/Pixel%208-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/product/pixel_8?hl=en-IN&pli=1)
 [![Pixel 3](https://img.shields.io/badge/Pixel%203-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
 [![Pixel 6a](https://img.shields.io/badge/Pixel%206a-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/product/pixel_6a?hl=en-GB)
 [![Asus Tuf A17](https://img.shields.io/badge/Asus%20Tuf%20A17-6E7DAD?style=flat-square&logo=Asus&logoColor=FFFFFF&labelColor=6E7DAD)](https://www.asus.com/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a17-2022/)

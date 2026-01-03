@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center">💻 As a Developer, I specialize in creating responsive and visually appealing websites, apps and other stuff with clean and efficient code
+<h3 align="center">💻 As a Developer & Designer, I specialize in creating & Designing responsive and visually appealing websites, apps and other stuff with clean and efficient code
 </h3>
 
 - 🌱 I’m learning Web Development 

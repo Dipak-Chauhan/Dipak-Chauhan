@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </h3>
 
 - 🌱 I’m Front End Developer & Designer 
-- 📫 Email: deepakchauhan98790@gmail.com
+- 📫 Email: dipakchauhan.wrk@gmail.com
 - 💬 Ask me about Digital Stuff
 - 😄 Anime And Chill
 - ⚡ When I'm Not Coding Only Gaming

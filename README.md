@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm Dipak 👋</h1>
+<h1 align="center">Hey, I'm Dipak 👋</h1>
 
 <p align="center">
   Front-End Developer & UI Designer based in India. I build fast, clean, and visually sharp interfaces.

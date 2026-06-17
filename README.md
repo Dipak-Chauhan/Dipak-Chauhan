@@ -18,7 +18,7 @@ I specialise in building **responsive web & mobile apps** with clean, maintainab
 
 - 🎨 **UI/UX Design** — Figma, design systems, component libraries
 - 📱 **Mobile Development** — Flutter & Dart for cross-platform apps
-- 🌐 **Web Development** — HTML, CSS, JavaScript
+- 🌐 **Web Development** — HTML, CSS, JavaScript, React
 - 🤖 **Android Development** — Java, Android SDK
 - 🐧 **Linux Enthusiast** — daily driving Arch & Kali, tinkering with Raspberry Pi
 

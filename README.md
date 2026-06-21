@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ What I Do.
+## 🛠️ What I Do
 
 I specialise in building **responsive web & mobile apps** with clean, maintainable code and thoughtful design. My stack spans both development and design, from wireframes in Figma to shipped Flutter apps.
 

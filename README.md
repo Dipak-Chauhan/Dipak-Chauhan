@@ -94,3 +94,5 @@ When I'm not pushing pixels or writing code, you'll find me deep in a game or ca
 <p align="center">
   <i>Open to freelance work and interesting collaborations, feel free to reach out!</i>
 </p>
+
+<h2 align="centre">Thank You</h2>

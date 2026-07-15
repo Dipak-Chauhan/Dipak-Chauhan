@@ -94,7 +94,7 @@ I specialise in building **responsive web & mobile apps** with clean, maintainab
 
 <div align="center">
 
-<img width="49%" src="https://github.com/SahilRakhaiya05/SahilRakhaiya05/blob/main/metrics.isocalendar.svg"/>
+<img width="49%" src="https://github.com/Dipak-Chauhan/Dipak-Chauhan/blob/main/metrics.isocalendar.svg"/>
 
 </div>
 

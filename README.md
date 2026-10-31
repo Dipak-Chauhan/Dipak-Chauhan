@@ -21,7 +21,7 @@ I specialise in building **responsive web & mobile apps** with clean, maintainab
 - 🎨 **UI/UX Design** — Figma, design systems, component libraries
 - 📱 **Mobile Development** — Flutter & Dart for cross-platform apps
 - 🌐 **Web Development** — HTML, CSS, JavaScript
-- 🤖 **Android Development** — Java, Android SDK
+- 🤖 **Android Development** — Kotlin, Java, Android SDK
 - 🐧 **Linux Enthusiast** — daily driving Arch & Kali, tinkering with Raspberry Pi
 
 ---
@@ -32,6 +32,11 @@ I specialise in building **responsive web & mobile apps** with clean, maintainab
   <a href="https://www.figma.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
+
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
+  </a>
+  
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
   </a>

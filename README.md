@@ -1,3 +1,5 @@
+<img width="1672" height="530" alt="Seven Cozy Ghost Expressions-clean cropped" src="https://github.com/user-attachments/assets/c799b207-4b1d-45bc-909e-20c2a4e4873a" />
+
 <h1 align="center">Hey, I'm GhosT 👋</h1>
 
 <p align="center">

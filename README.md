@@ -1,5 +1,4 @@
-<img width="1672" height="941" alt="Seven Cozy Ghost Expressions-clean" src="https://github.com/user-attachments/assets/7a5b9ca2-2064-4d86-8a98-7207cd54720c" />
-
+<img width="1672" height="530" alt="Seven Cozy Ghost Expressions-clean cropped" src="https://github.com/user-attachments/assets/a1a291cc-b098-4f34-9c92-1bd7657a455f" />
 
 <h1 align="center">Hey, I'm GhosT 👋</h1>
 
@@ -82,22 +81,9 @@ I specialise in building **responsive web & mobile apps** with clean, maintainab
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dipak-Chauhan&show_icons=true&hide_border=true&count_private=true&hide_rank=true&include_all_commits=true&custom_title=GitHub+Stats&title_color=22d3ee&icon_color=f59e0b&text_color=e2ffff&bg_color=0d1117"/>
-
 <img width="49%" src="https://streak-stats.demolab.com?user=Dipak-Chauhan&hide_border=true&ring=22d3ee&fire=f59e0b&currStreakLabel=22d3ee&currStreakNum=ffffff&sideLabels=e2ffff&sideNums=e2ffff&background=0d1117&dates=8b9eb0"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipak-Chauhan&layout=compact&hide_border=true&langs_count=10&custom_title=Top+Languages&title_color=22d3ee&text_color=e2ffff&bg_color=0d1117"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dipak-Chauhan&theme=github_dark&utcOffset=5.5"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dipak-Chauhan&bg_color=0d1117&color=22d3ee&line=f59e0b&point=e2ffff&area_color=001a1a&area=true&hide_border=true&custom_title=Contribution+Activity&radius=4"/>
-
-</div>
-
-## 📊 Live Metrics
-
-<div align="center">
-
-<img width="49%" src="https://github.com/Dipak-Chauhan/Dipak-Chauhan/blob/main/metrics.isocalendar.svg"/>
 
 </div>
 
@@ -105,7 +91,7 @@ I specialise in building **responsive web & mobile apps** with clean, maintainab
 
 ## 🎮 Outside the Terminal
 
-When I'm not pushing pixels or writing code, you'll find me deep in a game or catching up on anime. Currently: **Anime + Chill mode** 🍜
+When I'm not pushing pixels or writing code, you'll find me deep in a game or catching up on anime. Currently: **Anime + Chill mode**🍜
 
 ---
 
